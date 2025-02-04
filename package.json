@@ -1,0 +1,25 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Liziloo/odin-testing-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Liziloo/odin-testing-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liziloo/odin-testing-practice.git"
+  },
+  "license": "MIT",
+  "author": "Liz Loomans",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7",
+    "babel-jest": "^29.7.0"
+  }
+}
